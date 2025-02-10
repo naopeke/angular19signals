@@ -57,3 +57,7 @@ You can also start the frontend application using the following command:
     ng serve
 
 The application is visible in port 4200: [http://localhost:4200](http://localhost:4200)
+  
+git clone -b 1-start https://github.com/angular-university/angular-signals-course.git  
+git clone -b recordings-ng19 https://github.com/angular-university/angular-signals-course.git  
+git clone -b angular-19-prep https://github.com/angular-university/angular-signals-course.git
